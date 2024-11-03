@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+allure_pytest
+allure_python_commons
+colorama
+iniconfig
+pluggy
+pytest
+tomli
